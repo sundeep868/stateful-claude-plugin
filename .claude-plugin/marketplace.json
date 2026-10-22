@@ -1,0 +1,17 @@
+{
+  "name": "stateful",
+  "description": "Property accounting skills and the Stateful connector for Claude Code.",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Stateful",
+    "email": "support@withstateful.com",
+    "url": "https://withstateful.com"
+  },
+  "plugins": [
+    {
+      "name": "stateful",
+      "source": ".",
+      "description": "Property accounting for landlords with LLCs. Read per-LLC books, rent, and K-1 worksheets. Changes wait for a confirmation preview."
+    }
+  ]
+}

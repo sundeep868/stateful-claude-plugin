@@ -9,11 +9,13 @@
     "url": "https://withstateful.com"
   },
   "homepage": "https://withstateful.com/connectors/claude",
+  "repository": "https://github.com/sundeep868/stateful-claude-plugin",
   "documentationUrl": "https://withstateful.com/connectors/claude",
   "supportUrl": "https://withstateful.com/support",
   "privacyPolicyUrl": "https://withstateful.com/privacy",
   "termsOfServiceUrl": "https://withstateful.com/terms",
-  "icon": "./public/brand/stateful-icon-512.png",
-  "license": "LicenseRef-Proprietary",
-  "mcpServers": "./.claude-plugin/.mcp.json"
+  "icon": "./icon.png",
+  "license": "MIT",
+  "keywords": ["accounting", "real-estate", "rent", "llc"],
+  "mcpServers": "./.mcp.json"
 }
