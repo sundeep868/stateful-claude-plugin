@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "stateful": {
+      "type": "http",
+      "url": "https://withstateful.com/mcp"
+    }
+  }
+}

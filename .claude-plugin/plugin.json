@@ -1,0 +1,19 @@
+{
+  "name": "stateful",
+  "displayName": "Stateful",
+  "version": "1.0.0",
+  "description": "Property accounting for landlords with LLCs. Read per-LLC books, rent, and K-1 worksheets. Changes wait for a confirmation preview.",
+  "author": {
+    "name": "Stateful",
+    "email": "support@withstateful.com",
+    "url": "https://withstateful.com"
+  },
+  "homepage": "https://withstateful.com/connectors/claude",
+  "documentationUrl": "https://withstateful.com/connectors/claude",
+  "supportUrl": "https://withstateful.com/support",
+  "privacyPolicyUrl": "https://withstateful.com/privacy",
+  "termsOfServiceUrl": "https://withstateful.com/terms",
+  "icon": "./public/brand/stateful-icon-512.png",
+  "license": "LicenseRef-Proprietary",
+  "mcpServers": "./.claude-plugin/.mcp.json"
+}
